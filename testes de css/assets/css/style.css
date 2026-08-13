@@ -1,0 +1,22 @@
+/* Comentários */
+body {
+    background-color: rgb(38, 109, 133);
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 20px;
+}
+
+div {
+    background-color: bisque;
+    padding: 20px;
+    border-radius: 5px;
+}
+
+li {
+    color: red;
+}
+
+.texto {
+    color: blue;
+
+}
